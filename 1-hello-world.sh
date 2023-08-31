@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "hi iam learning devops"
-person1=dheeru
+person1=sreeni
 person2=padhu
 
 echo "$person1: hi $person2"
